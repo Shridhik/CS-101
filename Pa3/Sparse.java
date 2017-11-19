@@ -1,5 +1,5 @@
 //-----------------------------------------------------------------------------
-//  Matrix.java
+//  Sparse.java
 //  Shridhik John
 //  CMPS-101
 //  shjohn@ucsc.edu
